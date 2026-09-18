@@ -1,19 +1,34 @@
 <h1 align="center">Hi, I'm Rohin 💫</h1>
 <p align="center">Developer focused on building real-world projects with JavaScript and Node.js</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohinCode&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohinCode&theme=radical&hide_border=true" width="48%" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=html" width="25" align="center" /> HTML
 </p>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=css" width="25" align="center" /> CSS
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js" width="25" align="center" /> JavaScript
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="25" align="center" /> Node.js
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=express" width="25" align="center" /> Express.js
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="25" align="center" /> MongoDB
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="25" align="center" /> Git
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=github" width="25" align="center" /> Github
+</p>
 ---
 
 ## 🚀 Featured Projects
