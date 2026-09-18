@@ -39,7 +39,7 @@ A website built with JavaScript, Node.js, Express.js, MongoDB and Mongoose.
 ### 🤖 [Telegram AI Bot](https://github.com/RohinCode/BOT)
 A Telegram bot built with Node.js and Telegraf, connected to AI services.
 
-### 💬 [Chat Application](https://github.com/RohinCode)
+### 💬 [Chat Application](https://github.com/RohinCode/light)
 A web-based chat application where registered users can communicate with each other.
 
 ### 🎮 [Flappy Bird](https://github.com/RohinCode/flappy-bird )
